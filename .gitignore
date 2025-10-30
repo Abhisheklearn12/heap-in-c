@@ -1,0 +1,29 @@
+
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+*.swp
+*~
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# External deps (if downloaded)
+_external/
+_deps/
