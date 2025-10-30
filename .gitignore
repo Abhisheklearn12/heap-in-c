@@ -5,6 +5,9 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+heap.o
+heap_demo
+libheap.a
 
 # IDE specific
 .idea/
