@@ -39,4 +39,9 @@ make debug
 # Clean
 make clean
 ```
+
+### Output:
+ ![Output Image](media/heap.png)
+
+
 ### I just implemented to learn and for fun.
